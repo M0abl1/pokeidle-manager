@@ -34,3 +34,7 @@ npm.cmd --prefix launcher ci
 npm.cmd --prefix server test
 npm.cmd --prefix launcher run local
 ```
+
+## Licença
+
+[MIT](LICENSE)
