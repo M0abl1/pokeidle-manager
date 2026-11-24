@@ -2,8 +2,8 @@
 // @name         PokeIdle — Analisador de Party e Depot
 // @namespace    codex.local/pokeidle-analyzer
 // @version      1.10.1
-// @updateURL    https://raw.githubusercontent.com/M0abl1/pokeidlem0abl1/main/pokeidle-party-depot-analyzer.user.js
-// @downloadURL  https://raw.githubusercontent.com/M0abl1/pokeidlem0abl1/main/pokeidle-party-depot-analyzer.user.js
+// @updateURL    https://raw.githubusercontent.com/M0abl1/pokeidle-manager/main/pokeidle-party-depot-analyzer.user.js
+// @downloadURL  https://raw.githubusercontent.com/M0abl1/pokeidle-manager/main/pokeidle-party-depot-analyzer.user.js
 // @description  Analisa Party/Depot, protege Coleção, troca hunts medidas e automatiza a captura manual por conta.
 // @author       Codex
 // @match        https://poke.idleworld.online/*
